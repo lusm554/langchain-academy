@@ -1,0 +1,3 @@
+source lc-academy-env/bin/activate
+python -m ipykernel install --user --name=lc-academy-env --display-name="lc-academy-env"
+python -m jupyterlab
